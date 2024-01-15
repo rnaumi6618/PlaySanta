@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/3rd semester/Gaming/FINALPROJECT/SantaPlay_v8/AllInOne/Content/sounds/buttonClick1.wav</SourceFile>
+  <SourceTime>2023-12-09T07:38:08-05:00</SourceTime>
+  <DestFile>F:/3rd semester/Gaming/FINALPROJECT/SantaPlay_v8/AllInOne/Content/bin/Windows/Content/sounds/buttonClick1.xnb</DestFile>
+  <DestTime>2023-12-11T05:45:22.5145912-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

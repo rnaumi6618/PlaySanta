@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/fonts/HilightFont.spritefont</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/fonts/RegularFont.spritefont</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/fonts/TitleFont.spritefont</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/92.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/b1.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/g5.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/g6.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/gifts.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/help.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/hi-score.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/instruction.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/level _select.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/level_complete.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/level_select_button.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/music_off.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/music_on.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/obstacle.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/player.jpg</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/run7.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/santa.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/santa2.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/santaTara.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/snow1.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/snowball.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/startSceneBack.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/images/walk1.png</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/sounds/alwaysPlay.wav</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/sounds/ballDrop.wav</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/sounds/buttonClick1.wav</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/sounds/gift.wav</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/sounds/Help.wav</File>
+    <File>C:/Users/naumi/Downloads/SantaPlay_v2/SantaPlay/AllInOne/Content/sounds/punch.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>images/setting.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>images/level-select.png</File>
+    <File xsi:nil="true" />
+    <File>images/level-select-board.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

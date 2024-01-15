@@ -1,0 +1,711 @@
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\sabbir\Desktop\PROG2370-F23-HANDSON\sec1\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+D:\GamingProgramming\week11_download\AllInOne\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+F:\3rd semester\Gaming\ASSIGNMENTS\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+F:\3rd semester\Gaming\Project\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walk1.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walk1.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa2.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\cutesanta2.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gifts.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\s3.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santaTara.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta2.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta3.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa2.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g5.xnb
+F:\3rd semester\Gaming\AllinOne\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g6.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\cutesanta2.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_accept.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_background.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_cancel.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_textbox.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\s3.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santaTara.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta2.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta3.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g5.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g6.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gifts.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snowball.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\applause1.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.wma
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\click.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\ding.xnb
+D:\GamingProgramming\Final\dev\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\hi-score.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\cutesanta2.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gift1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_accept.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_background.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_cancel.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_textbox.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\s3.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santaTara.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta2.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta3.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g5.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g6.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gifts.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\hi-score.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa2.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snowball.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walk1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\applause1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.wma
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\click.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\ding.xnb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+F:\3rd semester\Gaming\FINALPROJECT\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\cutesanta2.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gift1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_accept.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_background.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_cancel.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_textbox.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\s3.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santaTara.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta2.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta3.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g5.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g6.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gifts.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\hi-score.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa2.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snowball.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walk1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\applause1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.wma
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\click.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\ding.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\cutesanta2.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gift1.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_accept.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_background.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_cancel.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_textbox.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\s3.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta2.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta3.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g5.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g6.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gifts.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\hi-score.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa2.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santaTara.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snowball.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\startSceneBack.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walk1.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\applause1.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.wma
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\click.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\ding.xnb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+C:\Users\naumi\Downloads\AllInOne_v14\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\cutesanta2.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gift1.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_accept.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_background.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_cancel.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_textbox.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\s3.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta2.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta3.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g5.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g6.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gifts.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\hi-score.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa2.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santaTara.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snowball.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\startSceneBack.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walk1.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\applause1.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.wma
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\click.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\ding.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\buttonClick1.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\alwaysPlay.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\ballDrop.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\gift.xnb
+C:\Users\naumi\Downloads\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\punch.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\HilightFont.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\fonts\TitleFont.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\background.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\cutesanta2.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g5.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\g6.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gift1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\gifts.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\hi-score.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_accept.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_background.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_cancel.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\input_textbox.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\level _select.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\level-select-board.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\level-select.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\level_complete.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\level_select_button.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\music_off.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\music_on.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\obstacle.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\player.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\Run (7).xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\run7.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\s3.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santa2.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\santaTara.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\setting.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snow1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\snowball.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\startSceneBack.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walk1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta2.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\images\walkingsanta3.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\alwaysPlay.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\applause1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\ballDrop.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\buttonClick1.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.wma
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\chimes.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\click.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\ding.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\gift.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Content\sounds\punch.xnb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.exe
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.deps.json
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.runtimeconfig.json
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.AssemblyReference.cache
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfoInputs.cache
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.AssemblyInfo.cs
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CoreCompileInputs.cache
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.csproj.CopyComplete
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\refint\AllInOne.dll
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.pdb
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\AllInOne.genruntimeconfig.cache
+D:\GamingProgramming\Final\Repos\AllInOne_v1\AllInOne_v17\AllInOne_v15\AllInOne_v1\AllInOne\obj\Debug\net6.0-windows\ref\AllInOne.dll

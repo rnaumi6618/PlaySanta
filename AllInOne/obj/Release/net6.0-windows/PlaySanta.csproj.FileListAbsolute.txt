@@ -1,0 +1,274 @@
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\fonts\HilightFont.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\fonts\TitleFont.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\background.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\Bat.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\cutesanta2.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\g5.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\g6.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\gift1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\gifts.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\help.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\hi-score.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\input_accept.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\input_background.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\input_cancel.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\input_textbox.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\instruction.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level _select.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level-select-board.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level-select.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level_complete.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level_select_button.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\music_off.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\music_on.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\obstacle.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\player.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\Run (7).xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\run7.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\s3.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\santa.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\santa2.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\santaTara.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\setting.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\snow1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\snowball.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\startSceneBack.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\walk1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\walkingsanta2.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\walkingsanta3.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\alwaysPlay.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\applause1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\ballDrop.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\buttonClick1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\chimes.wma
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\chimes.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\click.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\ding.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\gift.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\punch.xnb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.exe
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.deps.json
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.runtimeconfig.json
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.pdb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\MonoGame.Framework.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.XInput.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.AssemblyReference.cache
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.AssemblyInfoInputs.cache
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.AssemblyInfo.cs
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.CoreCompileInputs.cache
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.CopyComplete
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\refint\PlaySanta.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.pdb
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.genruntimeconfig.cache
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\ref\PlaySanta.dll
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.dll.manifest
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.application
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.dll.manifest
+C:\Users\naumi\Downloads\SantaPlay_v2\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.application
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\background.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\Bat.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\cutesanta2.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\gift1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\input_accept.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\input_background.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\input_cancel.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\input_textbox.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level _select.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level_select_button.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\Run (7).xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\s3.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\walkingsanta2.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\walkingsanta3.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\applause1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\chimes.wma
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\chimes.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\click.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\ding.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\fonts\HilightFont.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\fonts\TitleFont.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\b1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\g5.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\g6.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\gifts.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\help.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\hi-score.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\instruction.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level-select-board.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level-select.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\level_complete.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\music_off.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\music_on.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\obstacle.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\player.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\run7.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\santa.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\santa2.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\santaTara.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\setting.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\snow1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\snowball.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\startSceneBack.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\images\walk1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\alwaysPlay.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\ballDrop.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\buttonClick1.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\gift.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\Help.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Content\sounds\punch.xnb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.exe
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.deps.json
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.runtimeconfig.json
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.pdb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\MonoGame.Framework.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\SharpDX.XInput.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.AssemblyReference.cache
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.AssemblyInfoInputs.cache
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.AssemblyInfo.cs
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.CoreCompileInputs.cache
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.CopyComplete
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\refint\PlaySanta.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.pdb
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.genruntimeconfig.cache
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\ref\PlaySanta.dll
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.dll.manifest
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\bin\Release\net6.0-windows\PlaySanta.application
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.dll.manifest
+C:\Users\naumi\Downloads\SantaPlay_v7\SantaPlay_v7\SantaPlay\AllInOne\obj\Release\net6.0-windows\PlaySanta.application
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\background.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\Bat.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\cutesanta2.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\gift1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\input_accept.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\input_background.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\input_cancel.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\input_textbox.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\level _select.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\level_select_button.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\Run (7).xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\s3.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\walkingsanta2.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\walkingsanta3.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\applause1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\chimes.wma
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\chimes.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\click.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\ding.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\fonts\HilightFont.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\fonts\RegularFont.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\fonts\TitleFont.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\b1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\g5.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\g6.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\gifts.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\help.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\hi-score.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\instruction.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\level-select-board.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\level-select.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\level_complete.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\music_off.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\music_on.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\obstacle.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\player.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\run7.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\santa.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\santa2.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\santaTara.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\setting.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\snow1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\snowball.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\startSceneBack.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\images\walk1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\alwaysPlay.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\ballDrop.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\buttonClick1.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\gift.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\Help.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Content\sounds\punch.xnb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\PlaySanta.exe
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\PlaySanta.deps.json
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\PlaySanta.runtimeconfig.json
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\PlaySanta.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\PlaySanta.pdb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\MonoGame.Framework.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct2D1.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct3D11.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.Direct3D9.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.DXGI.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.Mathematics.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.MediaFoundation.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.XAudio2.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\SharpDX.XInput.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\runtimes\debian-x64\native\libuv.so
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\runtimes\osx\native\libuv.dylib
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.AssemblyReference.cache
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.AssemblyInfoInputs.cache
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.AssemblyInfo.cs
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.CoreCompileInputs.cache
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.csproj.CopyComplete
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\refint\PlaySanta.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.pdb
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.genruntimeconfig.cache
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\ref\PlaySanta.dll
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\PlaySanta.dll.manifest
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\bin\Release\net6.0-windows\PlaySanta.application
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.dll.manifest
+F:\3rd semester\Gaming\FINALPROJECT\SantaPlay_v8\AllInOne\obj\Release\net6.0-windows\PlaySanta.application
